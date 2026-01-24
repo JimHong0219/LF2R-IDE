@@ -25,7 +25,6 @@ Installation
 --------------------------------------------------------------
 Download the files below.
 - [LabVIEW Runtime 2018 32bit](https://www.ni.com/zh-tw/support/downloads/software-products/download.labview-runtime.html?srsltid=AfmBOoo1Wfdol8T-3dQPaSJJE2lkCwq9QZ1iU7SQM5-eRnTu3_e9dYs8#359578)  
-- [Vision Development Module Runtime 2018 SP1](https://www.ni.com/zh-tw/support/downloads/software-products/download.vision-development-module-runtime.html?srsltid=AfmBOoqT2pLA5D8UqHCr5YUpT9isY3vLqghSULvlzzawumQlFJox2gvg#306495)  
 - [LF2R IDE](https://github.com/Eremes1641/LF2R-IDE/releases)  
 
 LF2R IDE is developed using National Instruments (NI) LabVIEW rather than compiled with C#.  

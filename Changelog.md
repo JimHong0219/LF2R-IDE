@@ -2,6 +2,17 @@
 ==========================================
 
 
+v1.0.0.8 Date: 2026/01/24, Developer: Jim
+---------------------------------------------------
+### Changed
+- Use picture indicator instead of vision image indicator
+- Changed point line width from 1 to 2
+
+### Fixed
+- Fixed incorrect changes to x and y in `<i>`
+- Fixed GoTo indicator not updating when the frame number changed
+
+
 v1.0.0.7 Date: 2025/10/26, Developer: Jim
 ---------------------------------------------------
 ### Added

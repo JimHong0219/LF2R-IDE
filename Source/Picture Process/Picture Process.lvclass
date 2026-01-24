@@ -64,7 +64,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
-	<Item Name="Pic Plot Box.vi" Type="VI" URL="../Pic Plot Box.vi">
+	<Item Name="Pic Overlay Box.vi" Type="VI" URL="../Pic Overlay Box.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'H!!!!&amp;!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-`````],5'FD&gt;(6S:3"P&gt;81!#U!#!!68;72U;!!P1"=!"164&lt;WRJ:!2%98.I!U2P&gt;!&gt;%98.I2'^U#E2B=WB%&lt;X2%&lt;X1!"6.U?7RF!""!5!!#!!9!"Q2-;7ZF!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!"Q!-1G^S:'6S)%.P&lt;'^S!!!21!=!#E:J&lt;'QA1W^M&lt;X)!!""!5!!#!!I!#Q6$&lt;WRP=A!,1!-!"%RF:H1!!!F!!Q!$6'^Q!!N!!Q!&amp;5GFH;(1!$5!$!!:#&lt;X2U&lt;WU!!"B!5!!%!!U!$A!0!"!*5G6D&gt;'&amp;O:WRF!"2!-`````]+5'FD&gt;(6S:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!#!!%!!E!$!!2!")#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!)!!!!!!!!!!A!!!!)!!!!#!!!!")!!!!!!1!4!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -73,7 +73,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
-	<Item Name="Pic Plot Cross.vi" Type="VI" URL="../Pic Plot Cross.vi">
+	<Item Name="Pic Overlay Cross.vi" Type="VI" URL="../Pic Overlay Cross.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;%!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-`````],5'FD&gt;(6S:3"P&gt;81!#U!(!!6$&lt;WRP=A!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!N!!Q!%5WF[:1!!#U!'!!68;72U;!!11&amp;!!!A!)!!E%4'FO:1!!$5!$!!&gt;$:7ZU:8*Y!!V!!Q!(1W6O&gt;'6S?1!51&amp;!!!A!,!!Q)5'^T;82J&lt;WY!!"2!-`````]+5'FD&gt;(6S:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"A!%!!=!#A!.!!Y#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!)!!!!!!!!!!A!!!!)!!!!#!!!!")!!!!!!1!0!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>

@@ -2,6 +2,16 @@
 ==========================================
 
 
+v1.0.0.9 Date: 2026/02/20, Developer: Jim
+---------------------------------------------------
+### Added
+- Add frame preview
+- Add apply confirmation
+
+### Fixed
+- Fix the incomplete language switching issue
+
+
 v1.0.0.8 Date: 2026/01/24, Developer: Jim
 ---------------------------------------------------
 ### Changed

@@ -1,5 +1,5 @@
 {
-  "Language":{"Name":"English"},
+  "Language":{"Name":"Chinese"},
   "Path Config":{
     "Data Folder Path":"D:\\SteamLibrary\\steamapps\\common\\Little Fighter 2 remastered\\resources\\app\\_res_data",
     "PNG Folder Path":"D:\\SteamLibrary\\steamapps\\common\\Little Fighter 2 remastered\\resources\\app\\_res_pngs",

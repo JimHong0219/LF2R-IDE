@@ -506,6 +506,16 @@
         "Tip":"",
         "Description":""
       },
+      "Tool":{
+        "Name":"工具",
+        "Tip":"",
+        "Description":""
+      },
+      "PNG Json Generator":{
+        "Name":"PNG Json產生器",
+        "Tip":"",
+        "Description":""
+      },
       "Help":{
         "Name":"幫助",
         "Tip":"",

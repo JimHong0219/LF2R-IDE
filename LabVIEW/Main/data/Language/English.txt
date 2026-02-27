@@ -502,6 +502,16 @@
         "Tip":"",
         "Description":""
       },
+      "Tool":{
+        "Name":"Tool",
+        "Tip":"",
+        "Description":""
+      },
+      "PNG Json Generator":{
+        "Name":"PNG Json Generator",
+        "Tip":"",
+        "Description":""
+      },
       "Help":{
         "Name":"Help",
         "Tip":"",
